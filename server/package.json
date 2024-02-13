@@ -1,0 +1,22 @@
+{
+  "name": "gc01-margeryolethea",
+  "version": "1.0.0",
+  "description": "[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13590789&assignment_repo_type=AssignmentRepo) # GC01",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.10.0",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.1",
+    "graphql": "^16.8.1",
+    "ioredis": "^5.3.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.3.0"
+  }
+}
